@@ -26,6 +26,21 @@ A collection of reviews of the research papers I have studied.
     <td>GNN for Social Recommender Systems</td>
     <td><a href="#">PDF link</a></td>
   </tr>
+  <tr>
+    <td> Oct 04 </td>
+    <td> A Graph Neural Network Framework for Social Recommendation </td>
+    <td><a href="#">PDF link</a></td>
+  </tr>
+  <tr>
+    <td> TBD </td>
+    <td> TBD </td>
+    <td><a href="#">PDF link</a></td>
+  </tr>
+  <tr>
+    <td> TBD </td>
+    <td> TBD </td>
+    <td><a href="#">PDF link</a></td>
+  </tr>
 </table>
 
 
