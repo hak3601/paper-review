@@ -8,8 +8,8 @@ A collection of reviews of the research papers I have studied.
 <table>
   <tr>
     <th style="width: 15%;">Date</th>
-    <th style="width: 60%;">Topics</th>
-    <th style="width: 25%;">Material</th>
+    <th style="width: 70%;">Topics</th>
+    <th style="width: 15%;">Material</th>
   </tr>
   <tr>
     <td>July 23</td>
