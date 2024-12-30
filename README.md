@@ -18,7 +18,7 @@ A collection of reviews of the research papers I have studied.
   </tr>
   <tr>
     <td>Aug 06</td>
-    <td>Neural Graph Collaborative Filtering and Simplifying and Powering Graph Convolution Network</td>
+    <td>Neural Graph Collaborative Filtering</td>
     <td><a href="#">PDF link</a></td>
   </tr>
   <tr>
