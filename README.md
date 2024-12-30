@@ -22,6 +22,11 @@ A collection of reviews of the research papers I have studied.
     <td><a href="#">PDF link</a></td>
   </tr>
   <tr>
+    <td>Aug 06</td>
+    <td>Simplifying and Powering Graph Convolution Network</td>
+    <td><a href="#">PDF link</a></td>
+  </tr>
+  <tr>
     <td>Sept 27</td>
     <td>GNN for Social Recommender Systems</td>
     <td><a href="#">PDF link</a></td>
