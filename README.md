@@ -16,31 +16,31 @@ A collection of reviews of the research papers I have studied.
     <td>1.</td>
     <td>July 23</td>
     <td>Inductive Representation Learning on Large Graphs</td>
-    <td><a href="#">PDF link</a></td>
+    <td><a href="https://github.com/hak3601/paper-review/blob/main/paper%20list/1-GraphSAGE-HAK.pdf">PDF link</a></td>
   </tr>
   <tr>
     <td>2.</td>
     <td>Aug 06</td>
     <td>Neural Graph Collaborative Filtering</td>
-    <td><a href="#">PDF link</a></td>
+    <td><a href="https://github.com/hak3601/paper-review/blob/main/paper%20list/2-NGCF-HAK.pdf">PDF link</a></td>
   </tr>
   <tr>
     <td>3.</td>
     <td>Aug 06</td>
     <td>Simplifying and Powering Graph Convolution Network</td>
-    <td><a href="#">PDF link</a></td>
+    <td><a href="https://github.com/hak3601/paper-review/blob/main/paper%20list/3-LightGCN-HAK.pdf">PDF link</a></td>
   </tr>
   <tr>
     <td>4.</td>
     <td>Sept 27</td>
     <td>GNN for Social Recommender Systems</td>
-    <td><a href="#">PDF link</a></td>
+    <td><a href="https://github.com/hak3601/paper-review/blob/main/paper%20list/4-SocialRS(1).pdf">PDF link</a></td>
   </tr>
   <tr>
     <td>5.</td>
     <td> Oct 04 </td>
     <td> A Graph Neural Network Framework for Social Recommendation </td>
-    <td><a href="#">PDF link</a></td>
+    <td><a href="https://github.com/hak3601/paper-review/blob/main/paper%20list/5-SocialRS(2).pdf">PDF link</a></td>
   </tr>
   <tr>
     <td>6.</td>
