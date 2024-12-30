@@ -5,13 +5,28 @@ A collection of reviews of the research papers I have studied.
 
 ## 2024
 
-| Date        | Topics                                               | Material                  |
-|:-----------:|:---------------------------------------------------:|:------------------------:|
-| July 23     | Inductive Representation Learning on Large Graphs   | [PDF link](#)            |
-| Aug 06      | Neural Graph Collaborative Filtering and Simplifying and Powering Graph Convolution Network for Recommendation | [PDF link](#)            |
-| Sept 27     | GNN for Social Recommender Systems                  | [PDF link](#)            |
-| TBD         | TBD                                                 | TBD                      |
-
+<table>
+  <tr>
+    <th style="width: 15%;">Date</th>
+    <th style="width: 60%;">Topics</th>
+    <th style="width: 25%;">Material</th>
+  </tr>
+  <tr>
+    <td>July 23</td>
+    <td>Inductive Representation Learning on Large Graphs</td>
+    <td><a href="#">PDF link</a></td>
+  </tr>
+  <tr>
+    <td>Aug 06</td>
+    <td>Neural Graph Collaborative Filtering and Simplifying and Powering Graph Convolution Network</td>
+    <td><a href="#">PDF link</a></td>
+  </tr>
+  <tr>
+    <td>Sept 27</td>
+    <td>GNN for Social Recommender Systems</td>
+    <td><a href="#">PDF link</a></td>
+  </tr>
+</table>
 
 
 
